@@ -1,6 +1,11 @@
 #include <stdio.h>
 
 int main () {
+
+    printf("Welcome to SamuOpsify \n");
+    printf("********************* \n");
+
+
     float radius, hight, vol;
   
     printf("Radius number : ");
