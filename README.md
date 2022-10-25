@@ -9,18 +9,23 @@ Anyone can practice from here
 
 
 
-01. Problem 1: calculate area of square
+01. Problem : calculate area of square
 
  ![calculate area of square](./docs/squareArea.png)
 
 
 
- 02. Problem 2: °Celsius to *Fahrenheit Converter
+ 02. Problem : °Celsius to *Fahrenheit Converter
 
  ![°Celsius to *Fahrenheit Converter](./docs/celciusToFahrenheit.png)
 
 
 
- 03. Problem 3: *Fahrenheit to °Celsius Converter
+ 03. Problem : *Fahrenheit to °Celsius Converter
 
  ![*Fahrenheit to °Celsius Converter](./docs/FahrenheitToCelcius.png)
+
+
+ 04. Problem: Calculate total and average marks of five subjects
+
+ ![Calculate total and average marks of five subjects](./docs/totalAverage.png)
