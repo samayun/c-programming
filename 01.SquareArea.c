@@ -4,6 +4,8 @@
   */
 #include <stdio.h>
 
+#define square(x) ((x) * (x))
+
 int main () {
     printf("Welcome to SamuOpsify \n");
     printf("********************* \n\n");
@@ -13,7 +15,7 @@ int main () {
     printf("Enter the Length of Side : ");
     scanf("%d", &side);
    
-    area = side * side;
+    area = square(side);
     printf("\nArea of Square : %d", area);
 
     printf("\n\n********************* \n");
